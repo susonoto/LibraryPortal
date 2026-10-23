@@ -2,6 +2,14 @@
 
 A modern full-stack Library Management System built with the **MERN** stack (MongoDB, Express, React, Node.js) featuring a beautiful **Neomorphism** UI with light/dark mode support.
 
+<p align="center">
+  <img src="Dashboard.png" alt="LibraryPortal Dashboard Preview" width="900">
+</p>
+
+<p align="center">
+  <em>LibraryPortal — Library management made simpler.</em>
+</p>
+
 ## ✨ Features
 
 1. **Borrow Tracking** – See which student has which book
